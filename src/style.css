@@ -1,0 +1,47 @@
+
+h2, h1,p{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+   
+   
+}
+h1{
+    font-size: 66px;
+}
+h2{
+    font-weight:400;
+    border: 2px solid;
+    
+}
+ li,p{
+    font-size: 20px;
+}
+.cert h2{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.name p{
+    
+    font-weight: bold;
+   font-size: 40px;
+    font-style: italic;
+    margin-top: 5px ;
+    margin-bottom: 30px; 
+}
+.referres h2{
+    margin:60px;
+    margin-bottom: 30px;
+}
+
+.profile h2{
+    margin-bottom: 30px;
+    margin-top: 60px;
+   
+    
+}
+.skills h2{
+    margin: 60px;
+    margin-bottom: 30px;
+}
